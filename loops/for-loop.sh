@@ -3,4 +3,5 @@
 for variable 1 2 3 4 5
 do 
  echo "output number $variable"
+ echo "another message"
 done
